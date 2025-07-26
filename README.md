@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey 👋,I am Tejas Panchbhai</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 </h3>
 
 ###
 
-<p align="left">I'm Tejas from RCPIT<br><br>- 🔭<br>- 📚 I'm currently learning AIML<br>- ⚡.</p>
+<p align="left">I'm Tejas from RCPIT<br><br>- 🔭<br>- 📚 I'm currently learning Web Development<br>- ⚡.</p>
 
 ###
 
